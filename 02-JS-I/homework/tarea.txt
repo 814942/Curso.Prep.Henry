@@ -1,0 +1,17 @@
+Tarea Introducción a Javascript
+
+### Variable: nos permite crear y almacenar cualquier tipo de dato para usar mas tarde.
+
+### String: es un de los tres tipos de datos mas comun en JS, caracterizado por ser un bloque de texto que se define entre comillas, ya sea doble o simple.
+
+### Numbers: es otro tipo de dato en el cual se utilizan números, sin comillas. Pudiendo ser positivos o negativos. JS tiene una restriccion de (+/- 9007199254740991).
+
+### Bolean: creados a partir de la lógica de Boole significa que un dato puede adquirir dos estados: true o false.
+
+### Funciones: muy importante en programacion y, sobre todo, en JS. Son objetos invocalbes que utilizamos para modificar, cambiar, o mas, a las variables.
+La forma tradicional de invocarlas es: function miFuncion() {}
+Una funcion empieza con la palabra Function + El nombre de la misma( siempre es mejor poner un nombre que describa lo que hace) + entre parentesis se escribira dentro los argumentos de dicha funcion + Corchetes donde se encerrara el codigo de la funcion a ejecutar.
+
+### Declaración return: utilizamos esta declaracion cuando queremos que la funcion nos devuelva algo especifico. Detiene automaticamente lo que esta haciendo y nos devulve el resultado.
+
+### Declaración if: es un operador de control de flujo que nos permite verificar si algo true o false.
