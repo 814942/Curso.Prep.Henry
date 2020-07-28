@@ -1,0 +1,11 @@
+Tarea Homework: Javascript II
+
+### for: el bucle for es similar a if pero un tanto mas complejo. Los bucles se utilizan para evaluar expresiones una y otra vez hasta que devuelvan la que estamos buscando o se detengan despues de cierto tiempo. Este esta estructurado de la siguiente forma: la palabra clave "for", seguida de parentesis y dentro esta dividida en tres partes: primero debemos declarar la variable, osea sobre lo que se repetira en el bucle. Segundo, la condicion, el bucle se ejecutara hasta que esta condicion sea false. Tercero como incrementaremos nuestra variable. Todo va separado de ; y quedaria asi: 
+for (var i = 0                 ; i < 10                 ; i++)
+
+### &&: es un operador logico Y. Se encarga de evaluar ambas expresiones y devolvera verdadero solo si las dos expresiones son true. Si alguna no lo es devolvera false.
+
+### || el operador logico O. Se encarga de determinar si una o ambas expresiones son verdadera, en ese caso devuelve true.
+Solo devolvera false si ambas son falsas.
+
+### ! el operador logico NO. Devolvera el valor booleano opuesto de lo que se le pasa.
