@@ -1,0 +1,3 @@
+Homework: Javascript III
+
+### Arrays: son listas de elementos ordenados uno al lado del otro. Puede contener string, numeros, booleanos, funciones e incluso arrays.
