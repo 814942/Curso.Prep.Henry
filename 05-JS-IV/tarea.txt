@@ -1,0 +1,12 @@
+# Homework: Javascript IV
+
+### Objetos: contienen mucha informacion sobre una sola cosa.
+
+### Propiedades: tambien llamadas clave:valor. La clave es el identificador del objeto y el valor es es valor que queremos darle a dicha clave. Una clave puede tener el mismo valor pero un objeto no puede tener la misma clave. Se pueden usar numeros, booleanos, string, incluso funciones. La sintaxis es "clave: valor" separado por una coma.
+
+### Métodos: son las funciones guardadas dentro de un objeto.
+
+### Bucle `for…in`: sirve para iterar sobre cada par clave-valor en nuestro objeto.
+
+### Notación de puntos vs notación de corchetes: Notación de puntos resulta mucho mas rapido y sencilla al momento de escribir.  Pro: rapido y sencillo. Contra: solo busca dentro de un objeto especifico. Su sintaxis es: "objeto.propiedad".
+Notación de corchetes: es el metodo tradicional empleando. Pro: mas seguro, ya que busca exactamente lo que queresmos. Contra: mas lento. Su sintaxis es "objeto["propiedad"]"
