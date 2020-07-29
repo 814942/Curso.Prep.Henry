@@ -1,0 +1,3 @@
+# Homework: Javascript VI
+
+### Callbacks: es una funcion que se hace pasar como argumento de otra funcion.
